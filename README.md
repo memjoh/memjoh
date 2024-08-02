@@ -6,6 +6,8 @@
 About Me
 Technical Skills
 Key Projects
+Professional Goals
+Connect with Me (Links to Social)
 
 Here are some ideas to get you started:
 
