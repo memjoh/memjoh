@@ -1,4 +1,8 @@
-## Hi there 👋
+## Helloooo! 👋
+
+I'm currently obsessively learning some new data things - **D3**, enhanced **UI**, more **interactivity**, and better **storytelling**.
+
+Current and past work includes a lot of **Tableau**, **Looker** and **LookML**, **SQL**, and some **front-end** development.
 
 <!--
 **memjoh/memjoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
