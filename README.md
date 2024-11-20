@@ -1,6 +1,6 @@
 ## Helloooo! 👋
 
-I'm currently obsessively learning some new data things - **D3**, enhanced **UI**, more **interactivity**, and better **storytelling**.
+I'm currently obsessively learning some new data things - **D3**, data **engineering**, enhanced data visualization **UI** and **interactivity**, and better **storytelling**.
 
 Current and past work includes a lot of **Tableau**, **Looker** and **LookML**, **SQL**, and some **front-end** development.
 
