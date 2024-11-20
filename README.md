@@ -2,7 +2,7 @@
 
 I'm currently obsessively learning some new data things - **D3**, data **engineering**, enhanced data visualization **UI** and **interactivity**, and better **storytelling**.
 
-Current and past work includes a lot of **Tableau**, **Looker** and **LookML**, **SQL**, and some **front-end** development.
+Current and past work includes analytics work in Product, Sales, Marketing, Finance, SaaS, and eCommerce, specializing in **a/b Testing**, a lot of **Tableau**, **Looker** and **LookML**, **SQL**, and some **front-end** development.
 
 <!--
 **memjoh/memjoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
